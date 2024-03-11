@@ -1,1 +1,2 @@
 fsdfsdf
+Nowa funkcjonalnosc
